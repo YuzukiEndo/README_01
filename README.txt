@@ -94,18 +94,16 @@
 
 
 ### 画面遷移図
-Figma：https://www.figma.com/design/dPDYwaNx1Nht6AOheVOpPV/%E7%84%A1%E9%A1%8C?node-id=0-1&t=60mLl6CU0BxNKd6M-1
+Figma：https://www.figma.com/design/MNgNGkDjaIJlzyphhjUHDE/%E7%84%A1%E9%A1%8C?node-id=0-1&t=FA4MzhjFFiojOVCP-1
 
 ### READMEに記載した機能
 - [〇] ユーザー登録機能
 - [〇] ログイン機能
 - [〇] ログアウト機能
-- [〇] メールアドレス変更機能
 - [〇] いいね機能
 - [〇] いいね解除機能
 - [〇] パスワード変更機能
 - [〇] メールアドレス変更機能
-- [〇] 履歴機能
 - [〇] レシピ生成機能
 - [〇] 未ログイン状態による生成
 - [〇] シェア機能(LINE,X)
