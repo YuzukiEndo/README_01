@@ -119,4 +119,4 @@ Figma：https://www.figma.com/design/MNgNGkDjaIJlzyphhjUHDE/%E7%84%A1%E9%A1%8C?n
 - [〇] メールアドレス
 - [〇] パスワード
 
-ER図 : https://gyazo.com/74e3f80b2026af21a0306e60f0289363
+ER図 : https://gyazo.com/6a0af2b56ab579761aea875da6d37edc
