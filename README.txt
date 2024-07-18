@@ -85,10 +85,7 @@
 1.AIを使ったレシピ生成機能
 　OpenAI API（無料枠）
 
-2.栄養情報表示
-　Open Food Facts API
-
-3.生成されたレシピの共有機能
+2.生成されたレシピの共有機能
 　LINE Messaging API 
 　Twitter API (X)
 
